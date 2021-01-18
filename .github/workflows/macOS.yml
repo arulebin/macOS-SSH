@@ -2,7 +2,7 @@ name: MacOS SSH to GitHub Actions
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main ] 
     paths-ignore: 'README.md'
   workflow_dispatch:
 
